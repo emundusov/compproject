@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>peace_20.jpg</filename>
+	<path>/Users/emundusov/Desktop/images/peace_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>851</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peacesign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>308</ymin>
+			<xmax>556</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

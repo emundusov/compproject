@@ -1,2 +1,2 @@
 # compproject
- Computing Project repo
+ cmp repo
