@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>palm_3.jpg</filename>
+	<path>/Users/emundusov/Desktop/peacesg/train2/palm_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmhand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>50</ymin>
+			<xmax>369</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

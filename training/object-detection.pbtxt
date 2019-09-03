@@ -2,3 +2,7 @@ item {
   id: 1
   name: 'peacesign'
 }
+item {
+  id: 2
+  name: 'palmhand'
+}

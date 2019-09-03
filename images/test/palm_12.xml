@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2</folder>
+	<filename>palm_12.jpg</filename>
+	<path>/Users/emundusov/Desktop/peacesg/test2/palm_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmhand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>56</ymin>
+			<xmax>828</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>
