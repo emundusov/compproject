@@ -33,6 +33,8 @@ def class_text_to_int(row_label):
         return 1
     if row_label == 'palmhand':
         return 2
+    if row_label == 'oksign':
+        return 3
     else:
         None
 

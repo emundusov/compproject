@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train3</folder>
+	<filename>ok_26.jpg</filename>
+	<path>/Users/emundusov/Desktop/images_model/train3/ok_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oksign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>36</ymin>
+			<xmax>409</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

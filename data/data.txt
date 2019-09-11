@@ -1,0 +1,66 @@
+Report draft structure 
+
+Introduction
+What was the task? (Task overview)
+	-- research question
+Why do I do that? (Motivation)
+	-- what were the reasons for approaching this task?
+
+What kind of research was previously done in the field?
+	-- TensorFlow
+	-- ObjectDetection API
+	-- Colab laboratory
+	-- tutorials for custom object detection
+
+How I decided to approach the task?
+	-- collect images for custom dataset 
+		(1 gesture - 50 pics) - 100 steps
+		(2 gestures - 50 pics each) - 100 steps
+		(3 gestures - 50 pics each) - 100 steps
+		(3 gestures - 100 pics each) - 100/200/300 steps
+		(5 gestures - 100 pics each) - 300/500 steps (optional)
+
+	-- label the images with specific classes
+	-- train a custom object classifier using TensorFlow object detection API
+	-- get a frozen graph and convert it in lite version to use in mobile apps
+	-- demonstrate the inference results in Android app (how model works)
+	
+How did I plan to evaluate the results?
+	-- conduct set of experiments
+	-- accuracy/loss/confidence/timing
+	-- benchmark review with different models
+
+What did I build?
+	--What I did at the foundation stage? (50 pics for 3 sign)
+	--dataset + labels -> train/test records + pipleline config + pretrained model -> custom model
+	--What I did at the further stage(s)?
+
+Where did I struggle?
+	--difficulties/challenges
+	--performance issues/overfitting/conversion, exporting issues/launch on mobile device 
+
+What outcomes(end product) did I get?
+	--frozen graph
+	--Dlite model for inference 
+
+How  does it work?
+	--tensors
+	--train a pertained model from TensorFlow Zoo
+	--custom object detection with specific dataset
+
+What is the Computing aspect of the project?
+	-- putting everything into cloud
+	-- converting original model into lite format
+	-- finding the optimal pretained model from the TensorFlow Zoo
+
+What are the future directions of this work?
+	-- data crawlers
+	-- data augmentation
+	-- js version of model
+
+How do I demonstrate the results? 
+	-- Android application demo
+
+
+
+
