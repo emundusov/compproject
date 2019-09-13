@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>peace_22.jpg</filename>
-	<path>/Users/emundusov/Desktop/images/peace_22.jpg</path>
+	<path>/Users/emundusov/Desktop/images_model/train/peace_22.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>354</xmin>
+			<xmin>66</xmin>
 			<ymin>24</ymin>
 			<xmax>911</xmax>
-			<ymax>618</ymax>
+			<ymax>1018</ymax>
 		</bndbox>
 	</object>
 </annotation>

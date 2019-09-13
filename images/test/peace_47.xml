@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>test</folder>
 	<filename>peace_47.jpg</filename>
-	<path>/Users/emundusov/Desktop/images/peace_47.jpg</path>
+	<path>/Users/emundusov/Desktop/images_model/test/peace_47.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>peacesign</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1094</xmin>
+			<xmin>1045</xmin>
 			<ymin>680</ymin>
-			<xmax>1369</xmax>
-			<ymax>951</ymax>
+			<xmax>1370</xmax>
+			<ymax>1067</ymax>
 		</bndbox>
 	</object>
 </annotation>
