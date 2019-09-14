@@ -1,26 +1,26 @@
 <annotation>
-	<folder>train3</folder>
-	<filename>ok_45.jpg</filename>
-	<path>/Users/emundusov/Desktop/images_model/train3/ok_45.jpg</path>
+	<folder>train2</folder>
+	<filename>palm_48.jpg</filename>
+	<path>/Users/emundusov/Desktop/peacesg/train2/palm_48.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
+		<width>720</width>
 		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oksign</name>
+		<name>palmhand</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>128</xmin>
-			<ymin>31</ymin>
-			<xmax>251</xmax>
-			<ymax>176</ymax>
+			<xmin>374</xmin>
+			<ymin>142</ymin>
+			<xmax>651</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 </annotation>
