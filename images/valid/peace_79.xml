@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peacesign</folder>
+	<filename>peace_79.jpg</filename>
+	<path>/Users/emundusov/Desktop/images_model/manual/peacesign/peace_79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peacesign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>123</ymin>
+			<xmax>938</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>
