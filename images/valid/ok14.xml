@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ok</folder>
+	<filename>ok14.jpg</filename>
+	<path>/Users/emundusov/Desktop/images_model/validation/ok/ok14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oksign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>428</ymin>
+			<xmax>486</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
