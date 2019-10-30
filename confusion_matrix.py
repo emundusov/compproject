@@ -110,8 +110,9 @@ def display(confusion_matrix, categories, output_path):
         name = categories[i]["name"]
         
         total_target = np.sum(confusion_matrix[id,:])
-        total_predicted = np.sum(confusion_matrix[:,id])
-        total = np.sum(confusion_matrix[:,:])
+        #total_predicted = np.sum(confusion_matrix[:,id])
+        total_predicted = confusion_matrix[0,id] + confusion_matrix[1,id] + confusion_matrix[2,id]
+        total = 228
         
         precision = float(confusion_matrix[id, id] / total_predicted)
         recall = float(confusion_matrix[id, id] / total_target)
