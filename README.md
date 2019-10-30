@@ -1,15 +1,14 @@
-# compproject
+# COMP90055 Computing Project
 The repository contains appendices for COMP90055 Computing Project
 
 Folders:
-- //images contains dataset files
-- //training contains model files (in frozen graph format) generated after training
-- //litemodel contains resulting model files converted in TF Lite format
+- /images contains dataset files
+- /training contains model files (in frozen graph format) generated after training
+- /litemodel contains resulting model files converted in TF Lite format
 
 Files:
 - CompProject.ipynb contains Jypyter notebooks for training
-- demo_app.zip contains demonstration application generated with: 
-0. TensorFlow Lite Object Detection Android Demo (2019, October). Retrieved from https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android.
+- demo_app.zip contains demonstration application generated with TensorFlow Lite Object Detection Android Demo
 
 External sources used for the development:
 1. datitran. xml_to_csv.py. Git code (2017). Retrieved from https://github.com/datitran/raccoon_dataset
@@ -19,3 +18,4 @@ External sources used for the development:
 5. Toure, N. (2019, June). Convert a TensorFlow frozen graph to a TensorFlow lite (tflite) file (Part 3). Retrieved from https://medium.com/@teyou21/convert-a-tensorflow-frozen-graph-to-a-tflite-file-part-3-1ccdb3874c4a.
 6. Santos, J. D. D. (2018, June). Detecting Pikachu on Android using Tensorflow Object Detection. Retrieved from https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd.
 7. Zhang, C. (2019). How to train an object detection model easy for free. Retrieved from https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/.
+8. TensorFlow Lite Object Detection Android Demo (2019, October). Retrieved from https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android.
