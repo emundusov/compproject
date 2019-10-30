@@ -1,15 +1,15 @@
 # compproject
-The repository contains appendices files for COMP90055 Computing Project
+The repository contains appendices for COMP90055 Computing Project
 
 Folders:
-//images contains dataset files
-//training contains model files (in frozen graph format) generated after training
-//litemodel contains resulting model files converted in TF Lite format
+- //images contains dataset files
+- //training contains model files (in frozen graph format) generated after training
+- //litemodel contains resulting model files converted in TF Lite format
 
-CompProject.ipynb contains Jypyter notebooks for training
-
-demo_app.zip contains demonstration application generated with:
-TensorFlow Lite Object Detection Android Demo (2019, October). Retrieved from https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android.
+Files:
+- CompProject.ipynb contains Jypyter notebooks for training
+- demo_app.zip contains demonstration application generated with: 
+0. TensorFlow Lite Object Detection Android Demo (2019, October). Retrieved from https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android.
 
 External sources used for the development:
 1. datitran. xml_to_csv.py. Git code (2017). Retrieved from https://github.com/datitran/raccoon_dataset
