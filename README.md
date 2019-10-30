@@ -9,7 +9,7 @@ Folders:
 Files:
 - CompProject.ipynb contains Jypyter notebooks for training
 - demo_app.zip contains demonstration application generated with TensorFlow Lite Object Detection Android Demo
-- app_demo.mov application demonstration video 
+- app_demo.mov application demonstration video
 
 External sources used for the development:
 1. Bhattarai, B. (2019, July). Image Data augmentation and parsing into an XML file in Pascal-VOC format for object detection. Retrieved from https://medium.com/@bhuwanbhattarai/image-data-augmentation-and-parsing-into-an-xml-file-in-pascal-voc-format-for-object-detection-4cca3d24b33b.
